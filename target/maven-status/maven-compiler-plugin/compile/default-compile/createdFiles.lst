@@ -1,0 +1,8 @@
+com\example\webhooksolver\entity\Solution.class
+com\example\webhooksolver\dto\GenerateWebhookResponse.class
+com\example\webhooksolver\dto\GenerateWebhookRequest.class
+com\example\webhooksolver\dto\TestWebhookRequest.class
+com\example\webhooksolver\config\RestConfig.class
+com\example\webhooksolver\repo\SolutionRepository.class
+com\example\webhooksolver\service\WebhookStartupRunner.class
+com\example\webhooksolver\WebhookSolverApplication.class
